@@ -1,5 +1,5 @@
 {
-  "name": "my-nextjs-project",
+  "name": "wire-wave-infobahn-inc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,16 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.1.0"
+    "@heroicons/react": "^2.2.0",
+    "@material-tailwind/react": "^2.1.10",
+    "next": "15.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@svgr/webpack": "^8.1.0",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/react": "^18.3.16",
+    "@types/react-dom": "^18.3.5",
     "postcss": "^8",
-    "tailwindcss": "^3.4.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
