@@ -49,9 +49,11 @@ function Home() {
                 onPointerEnterCapture={undefined}
                 onPointerLeaveCapture={undefined}
               >
-                This is a simple example of a Landing Page you can build using
-                Material Tailwind. It features multiple components based on the
-                Tailwind CSS and Material Design by Google.
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Accusamus, suscipit expedita quos, non quibusdam veniam
+                deserunt, qui laborum iusto impedit dicta? Dolor quia molestiae
+                aliquid nesciunt, qui quis itaque dolore aspernatur dicta quam
+                minima. A illum esse delectus molestiae laudantium!
               </Typography>
             </div>
           </div>
