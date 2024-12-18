@@ -42,7 +42,7 @@ function FeatureCard({
 }: FeatureCardProps) {
   return (
     <Card
-      className="rounded-lg shadow-lg shadow-gray-500/10"
+      className="rounded-lg shadow-lg shadow-gray-500"
       onPointerEnterCapture={undefined}
       onPointerLeaveCapture={undefined}
       placeholder=""

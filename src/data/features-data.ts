@@ -14,24 +14,45 @@ import { color } from "@material-tailwind/react/types/components/alert";
   const featuresData:data[] = [
     {
       color: "gray",
-      title: "Awarded Agency",
+      title: "Network Infrastructure Solutions",
       icon: ChatBubbleBottomCenterTextIcon,
       description:
-        "Divide details about your product or agency work into parts. A paragraph describing a feature will be enough.",
+        "Delivering top-notch network infrastructure services tailored to enterprises of all sizes across Canada.",
     },
     {
       color: "gray",
-      title: "Free Revisions",
+      title: "Wireless Technology Expertise",
       icon: ChatBubbleBottomCenterTextIcon,
       description:
-        "Keep you user engaged by providing meaningful information. Remember that by this time, the user is curious.",
+        "Providing cutting-edge wireless technology solutions to ensure seamless communication and connectivity.",
     },
     {
       color: "gray",
-      title: "Verified Company",
+      title: "Structured Cabling Solutions",
       icon: ChatBubbleBottomCenterTextIcon,
       description:
-        "Write a few lines about each one. A paragraph describing a feature will be enough. Keep you user engaged!",
+        "Expert consultation, implementation, and support for structured cabling systems essential to IT networks.",
+    },
+    {
+      color: "gray",
+      title: "VoIP System Integration",
+      icon: ChatBubbleBottomCenterTextIcon,
+      description:
+        "Specializing in affordable VoIP systems with 24/7 support for efficient and reliable business communications.",
+    },
+    {
+      color: "gray",
+      title: "Custom Network Solutions",
+      icon: ChatBubbleBottomCenterTextIcon,
+      description:
+        "Consulting and deploying networking systems that align with specific business goals and requirements.",
+    },
+    {
+      color: "gray",
+      title: "Reliable Technical Support",
+      icon: ChatBubbleBottomCenterTextIcon,
+      description:
+        "Dedicated 24/7 customer service to ensure uninterrupted network performance and client satisfaction."
     },
   ];
   

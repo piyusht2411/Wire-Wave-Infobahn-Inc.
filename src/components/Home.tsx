@@ -39,7 +39,7 @@ function Home() {
                 onPointerEnterCapture={undefined}
                 onPointerLeaveCapture={undefined}
               >
-                Your story starts with us.
+                Building Connections That Empower Your Future
               </Typography>
               <Typography
                 variant="lead"
@@ -49,11 +49,10 @@ function Home() {
                 onPointerEnterCapture={undefined}
                 onPointerLeaveCapture={undefined}
               >
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Accusamus, suscipit expedita quos, non quibusdam veniam
-                deserunt, qui laborum iusto impedit dicta? Dolor quia molestiae
-                aliquid nesciunt, qui quis itaque dolore aspernatur dicta quam
-                minima. A illum esse delectus molestiae laudantium!
+                At Wire Wave Information Networks, we combine cutting-edge
+                technology with unparalleled service to deliver infrastructure
+                solutions that drive success. Let us connect your vision to
+                endless possibilities.
               </Typography>
             </div>
           </div>
@@ -61,7 +60,7 @@ function Home() {
       </div>
       <section className="-mt-32 bg-white px-4 pb-20 pt-4">
         <div className="container mx-auto">
-          <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-10 gap-y-14 md:grid-cols-2 lg:grid-cols-3">
             {featuresData.map(({ color, title, icon, description }) => (
               <FeatureCard
                 key={title}

@@ -121,9 +121,9 @@ function Navbar({
             target="_blank"
             rel="noopener noreferrer"
           >
-            <Button variant="text" size="sm" color="white" fullWidth>
+            {/* <Button variant="text" size="sm" color="white" fullWidth>
               pro version
-            </Button>
+            </Button> */}
           </a>
           {React.cloneElement(action as React.ReactElement, {
             className: "hidden lg:inline-block",
@@ -158,9 +158,9 @@ function Navbar({
             rel="noopener noreferrer"
             className="mb-2 block"
           >
-            <Button variant="text" size="sm" fullWidth>
+            {/* <Button variant="text" size="sm" fullWidth>
               pro version
-            </Button>
+            </Button> */}
           </Link>
           {React.cloneElement(action as React.ReactElement, {
             className: "w-full block",
