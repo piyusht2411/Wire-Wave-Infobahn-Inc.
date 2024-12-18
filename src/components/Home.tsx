@@ -250,7 +250,7 @@ function Home() {
             Complete this form and we will get back to you in 24 hours.
           </PageTitle>
           <form className="mx-auto w-full mt-12 lg:w-5/12">
-            <div className="mb-8 flex gap-8">
+            <div className="mb-8 flex gap-8 flex-wrap">
               <Input
                 variant="outlined"
                 size="lg"
