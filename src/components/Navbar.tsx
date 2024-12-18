@@ -25,7 +25,7 @@ interface NavbarProps {
 }
 
 function Navbar({
-  brandName = "Material Tailwind React",
+  brandName = "Logo",
   routes,
   action = (
     <a
@@ -34,7 +34,7 @@ function Navbar({
       rel="noopener noreferrer"
     >
       <Button variant="gradient" size="sm" fullWidth>
-        free download
+        Button
       </Button>
     </a>
   ),

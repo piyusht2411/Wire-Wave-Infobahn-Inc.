@@ -29,7 +29,7 @@ interface FooterProps {
 const year = new Date().getFullYear();
 
 function Footer({
-  title = "Material Tailwind",
+  title = "Logo",
   description = "Easy to use React components for Tailwind CSS and Material Design.",
   socials = [
     {
